@@ -11,21 +11,21 @@ Building AI image APIs and Agent Skills for developers.
 ## 从这里开始 · Start here
 
 <p>
-  <a href="https://github.com/shanye1402-hash/imgapi-image-generation#readme"><img src="assets/imgapi.svg" width="400" alt="imgAPI：Python / Node.js 生图 API 示例，点击查看代码" /></a>
-  <a href="https://github.com/shanye1402-hash/hotbee-social-data-skills#readme"><img src="assets/hotbee.svg" width="400" alt="HotBee：社媒数据 Agent Skills，点击安装与使用" /></a>
+  <a href="https://github.com/shanyeai/imgapi-image-generation#readme"><img src="assets/imgapi.svg" width="400" alt="imgAPI：Python / Node.js 生图 API 示例，点击查看代码" /></a>
+  <a href="https://github.com/shanyeai/hotbee-social-data-skills#readme"><img src="assets/hotbee.svg" width="400" alt="HotBee：社媒数据 Agent Skills，点击安装与使用" /></a>
 </p>
 
 ### imgAPI · AI 生图 API
 
 用 Python 或 Node.js 接入 GPT Image 和 Nano Banana，完成文生图、参考图编辑与异步任务查询。
 
-[查看代码示例 →](https://github.com/shanye1402-hash/imgapi-image-generation#readme) · [API 文档](https://imgapi.vip/api-docs) · [官网](https://imgapi.vip/)
+[查看代码示例 →](https://github.com/shanyeai/imgapi-image-generation#readme) · [API 文档](https://imgapi.vip/api-docs) · [官网](https://imgapi.vip/)
 
 ### HotBee · Agent Skills
 
 为 AI Agent 提供抖音、小红书、哔哩哔哩数据采集，以及转写、热榜和视频分析工具。
 
-[安装与使用 →](https://github.com/shanye1402-hash/hotbee-social-data-skills#readme) · [Skills 入口](https://www.hotbee.cn/skills) · [官网](https://www.hotbee.cn/)
+[安装与使用 →](https://github.com/shanyeai/hotbee-social-data-skills#readme) · [Skills 入口](https://www.hotbee.cn/skills) · [官网](https://www.hotbee.cn/)
 
 ---
 
