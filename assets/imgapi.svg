@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="182" viewBox="0 0 400 182" role="img" aria-labelledby="title desc">
+  <title id="title">imgAPI — AI image generation API examples</title>
+  <desc id="desc">Python and Node.js examples for GPT Image and Nano Banana. Open the repository to get started.</desc>
+  <rect x="1" y="1" width="398" height="180" rx="14" fill="#f1eefc" stroke="#c8bfee"/>
+  <rect x="24" y="25" width="4" height="34" rx="2" fill="#6450cc"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="40" y="52" font-size="30" font-weight="700" fill="#29233d">imgAPI</text>
+    <text x="25" y="91" font-size="20" fill="#3e3559">AI image generation API</text>
+    <text x="25" y="121" font-size="15" fill="#584d74">GPT Image · Nano Banana</text>
+    <text x="25" y="159" font-size="14" font-weight="600" fill="#51409e">Python / Node.js</text>
+    <text x="375" y="159" text-anchor="end" font-size="14" fill="#51409e">View examples →</text>
+  </g>
+</svg>

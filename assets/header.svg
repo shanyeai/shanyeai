@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-labelledby="title desc">
+  <title id="title">Shanye — AI image APIs and Agent Skills</title>
+  <desc id="desc">A warm yellow personal banner for Shanye, building imgAPI and HotBee.</desc>
+  <rect width="900" height="220" rx="18" fill="#f4d85a"/>
+  <path d="M620 0H900V220H720Z" fill="#eed052"/>
+  <circle cx="831" cy="38" r="107" fill="none" stroke="#dcc047" stroke-width="1"/>
+  <circle cx="831" cy="38" r="147" fill="none" stroke="#dcc047" stroke-width="1"/>
+  <g fill="#24261f" font-family="Segoe UI,Arial,sans-serif">
+    <text x="40" y="43" font-size="13" letter-spacing="3">SHANYE / BUILDER</text>
+    <text x="36" y="115" font-size="64" font-weight="700" letter-spacing="-2">Hello, I'm Shanye.</text>
+    <text x="40" y="153" font-size="22">AI image APIs &amp; Agent Skills.</text>
+    <text x="40" y="193" font-size="14" letter-spacing="1">imgAPI  /  HotBee</text>
+  </g>
+  <rect x="722" y="161" width="138" height="34" rx="17" fill="#24261f"/>
+  <text x="791" y="183" text-anchor="middle" fill="#f9e79c" font-family="Segoe UI,Arial,sans-serif" font-size="13">Build. Try. Share.</text>
+</svg>

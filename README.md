@@ -1,3 +1,5 @@
+![山野 Shanye — AI 生图 API 与 Agent Skills](assets/header.svg)
+
 # 山野 · Shanye
 
 我在做 **HotBee** 和 **imgAPI**，提供 AI Agent 工具与生图 API 接入示例。
@@ -7,6 +9,11 @@ Building AI image APIs and Agent Skills for developers.
 [关于山野](https://fcjtcf1sv5.feishu.cn/wiki/NqUHwhVMEiamHEk3fGwcGq7znVf?from=from_copylink) · [imgAPI](https://imgapi.vip/) · [HotBee](https://www.hotbee.cn/)
 
 ## 从这里开始 · Start here
+
+<p>
+  <a href="https://github.com/shanye1402-hash/imgapi-image-generation#readme"><img src="assets/imgapi.svg" width="400" alt="imgAPI：Python / Node.js 生图 API 示例，点击查看代码" /></a>
+  <a href="https://github.com/shanye1402-hash/hotbee-social-data-skills#readme"><img src="assets/hotbee.svg" width="400" alt="HotBee：社媒数据 Agent Skills，点击安装与使用" /></a>
+</p>
 
 ### imgAPI · AI 生图 API
 

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="182" viewBox="0 0 400 182" role="img" aria-labelledby="title desc">
+  <title id="title">HotBee — social data Agent Skills</title>
+  <desc id="desc">Agent Skills for social data, transcription and video analysis. Open the repository to install and use.</desc>
+  <rect x="1" y="1" width="398" height="180" rx="14" fill="#fff5dc" stroke="#e6ce90"/>
+  <rect x="24" y="25" width="4" height="34" rx="2" fill="#ad7717"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="40" y="52" font-size="30" font-weight="700" fill="#352c1b">HotBee</text>
+    <text x="25" y="91" font-size="20" fill="#514125">Social data for AI Agents</text>
+    <text x="25" y="121" font-size="15" fill="#705b33">Collect · Transcribe · Analyze</text>
+    <text x="25" y="159" font-size="14" font-weight="600" fill="#79530e">Agent Skills</text>
+    <text x="375" y="159" text-anchor="end" font-size="14" fill="#79530e">Get started →</text>
+  </g>
+</svg>
