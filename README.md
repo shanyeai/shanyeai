@@ -1,7 +1,7 @@
 # 山野 · Shanye
 
-ImgAPI是首个有赔付保障的生图API，不止低价<br>
-HotBee一键爆款视频/账号拆解，提供社媒数据采集API
+[ImgAPI](https://imgapi.vip/) 是首个有赔付保障的生图API，不止低价<br>
+[HotBee](https://www.hotbee.cn/) 一键爆款视频/账号拆解，提供社媒数据采集API
 
 <p>
   <a href="https://github.com/shanyeai/imgapi-image-generation#readme"><img src="assets/imgapi.svg" width="400" alt="imgAPI：Python / Node.js 生图 API 示例，点击查看代码" /></a>
